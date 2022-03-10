@@ -1,0 +1,14 @@
+{
+    "name": "star-trek-ipsum",
+    "version": "1.0.0",
+    "description": "Returns a random Star Trek quote",
+    "license": "MIT",
+    "repository": "Milutin-P/star-trek-ipsum",
+    "main": "index.js",
+    "keywords": [
+      "star",
+      "trek",
+      "ipsum",
+      "generator"
+    ]
+}
