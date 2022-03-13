@@ -1,6 +1,6 @@
 {
     "name": "star-trek-ipsum",
-    "version": "1.0.0",
+    "version": "1.1.1",
     "description": "Returns a random Star Trek quote",
     "author": "Milutin Pesikan <milutin.pesikan@gmail.com>",
     "license": "MIT",
@@ -10,7 +10,7 @@
         "url": "https://github.com/Milutin-P/star-trek-ipsum.git"
     },
     "bugs": {
-      "url": "https://github.com/Milutin-P/star-trek-ipsum/issues"
+        "url": "https://github.com/Milutin-P/star-trek-ipsum/issues"
     },
     "main": "index.js",
     "keywords": [
