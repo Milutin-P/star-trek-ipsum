@@ -2,13 +2,28 @@
     "name": "star-trek-ipsum",
     "version": "1.0.0",
     "description": "Returns a random Star Trek quote",
+    "author": "Milutin Pesikan <milutin.pesikan@gmail.com>",
     "license": "MIT",
-    "repository": "Milutin-P/star-trek-ipsum",
+    "homepage": "https://github.com/Milutin-P/star-trek-ipsum",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Milutin-P/star-trek-ipsum.git"
+    },
+    "bugs": {
+      "url": "https://github.com/Milutin-P/star-trek-ipsum/issues"
+    },
     "main": "index.js",
     "keywords": [
-      "star",
-      "trek",
-      "ipsum",
-      "generator"
-    ]
+        "star",
+        "trek",
+        "lorem",
+        "ipsum",
+        "quote",
+        "generator",
+        "string",
+        "random"
+    ],
+    "devDependencies": {
+        "eslint": "^8.11.0"
+    }
 }
