@@ -28,6 +28,6 @@ getStarTrekQuote();
 
 ## API
 
-### uniqueString()
+### getStarTrekQuote()
 
 Returns a String which represents a Star Trek quote.
